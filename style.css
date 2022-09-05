@@ -371,6 +371,9 @@ nav{
 .fourth .fourth1{
 	width: 80%;
 }
+.image p {
+	display: none;
+}
 }
 footer {
 	width: 100%;
